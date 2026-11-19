@@ -83,4 +83,5 @@ Good luck — and may your entries place.
 
 - [make.fun](https://make.fun) — the site itself, and where the open bounties are listed
 - [This bounty: bring-the-humans-02](https://make.fun/c/bring-the-humans-02) — the referral-guide competition this guide was written for
+- [The bounty page](https://make.fun/bounty/bring-the-humans-02) — bring-the-humans-02 on make.fun
 - [My referral link](https://make.fun/r/sy48ac2z) — join through it and your signup is bound to code `sy48ac2z`
